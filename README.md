@@ -14,4 +14,4 @@ Passionate frontend developer with 3+ years of experience creating exceptional d
 * 🧠  My LinkedIn: [https://linkedin.com/in/roman-rudakevych-a17a45164]
 
 My Tech Stack:
-![react](https://github.com/user-attachments/assets/719d0d4b-7ae8-47e2-bde9-b2e804eb5159)
+![react](https://github.com/user-attachments/assets/38f6a81d-5a59-4e8a-ae35-a25247fad858)
