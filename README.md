@@ -13,16 +13,9 @@ Passionate frontend developer with 3+ years of experience creating exceptional d
 * 🚀  I'm currently working on [Prostore E-shop Next.js, React.js, TypeScript](http://rudakevych.site)
 * 🧠  I'm learning Next.js, TypeScript, GraphQL
 * 🌍  My LinkedIn: [here](https://linkedin.com/in/roman-rudakevych-a17a45164)
-=============================================================================================================================
 
-
-
-Frontend Developer
+My Tech Stack
 ------------------
-
-
-
-My Tech Stack:
 
 ![react](https://github.com/user-attachments/assets/3b66766d-c102-4407-a284-a8f71ed59ec1)
 ![next](https://github.com/user-attachments/assets/85ce6ab3-5669-432f-8d0c-23fb9dcfc0da)
