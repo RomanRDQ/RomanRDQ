@@ -11,3 +11,7 @@ Passionate frontend developer with 3+ years of experience creating exceptional d
 * ✉️  You can contact me at [rrudakevych@gmail.com](mailto:rrudakevych@gmail.com)
 * 🚀  I'm currently working on [Prostore E-shop Next.js, React.js, TypeScript](http://rudakevych.site)
 * 🧠  I'm learning Next.js, TypeScript, GraphQL
+* 🧠  My LinkedIn: [https://linkedin.com/in/roman-rudakevych-a17a45164]
+
+My Tech Stack:
+(https://github.com/RomanRDQ/RomanRDQ/icons/react.svg)
