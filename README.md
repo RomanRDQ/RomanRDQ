@@ -14,7 +14,7 @@ Passionate frontend developer with 3+ years of experience creating exceptional d
 * 🧠  I'm learning Next.js, TypeScript, GraphQL
 * 🌍  My LinkedIn: [here](https://linkedin.com/in/roman-rudakevych-a17a45164)
 ------------------------------------------------------------------------------------------------------
-
+<div style="background-color: white; padding: 10px;">
 My Tech Stack:
 
 ![react](https://github.com/user-attachments/assets/3b66766d-c102-4407-a284-a8f71ed59ec1)
@@ -40,3 +40,5 @@ My Tech Stack:
 ![github](https://github.com/user-attachments/assets/3a430715-8675-4657-a4b6-fe3b799a2602)
 ![git](https://github.com/user-attachments/assets/f7587d5d-6b8a-4723-836f-9b788468ba95)
 ![vscode](https://github.com/user-attachments/assets/3ca842d4-847b-4390-b048-2721f5ce6896)
+
+</div>
